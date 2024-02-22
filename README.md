@@ -38,6 +38,6 @@ Use your knowledge of logistic regression to complete the following steps:
 Structure your report by using the report template that Starter_Code.zip includes, ensuring that it contains the following:</p>
 <ol>
 <li><strong>An overview of the analysis:</strong> Explain the purpose of this analysis.</li>
-<li>The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.</li>
-<li>A summary: Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.</li>
+<li><strong>The results:</strong> Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.</li>
+<li><strong>A summary:</strong> Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.</li>
 </ol>
