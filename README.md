@@ -60,5 +60,8 @@ Structure your report by using the report template that Starter_Code.zip include
 </ul>
 </ul>
 <li>Summary</li>
-Since precision is very close 1 we can infer that this model did a good job in predicting healthy and high-risk loans. It was 100% accurate with low-risk loans and 85% accurate with high-risk loans. Since there was only one model we have nothing else to compare our results to.
+<ul>
+<li>Since precision is very close 1 we can infer that this model did a good job in predicting healthy and high-risk loans. It was 100% accurate with low-risk loans and 85% accurate with high-risk loans. Since there was only one model we have nothing else to compare our results to.</li>
+</ul>
+
 </ol>
