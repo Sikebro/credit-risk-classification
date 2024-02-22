@@ -43,3 +43,22 @@ Structure your report by using the report template that Starter_Code.zip include
 </ol>
 
 <h1>Credit Risk Analysis Report</h1>
+<ol>
+<li>Overview</li>
+<ul>
+<li>The purpose of this analysis was to develop a model to check the classifications based on the provided financial information and to predict whether or not a loan is likely to be low-risk or high-risk and how accurate it can be at predicting those outcomes.</li>
+<li>The data had financial information such as the loan size, interest rate, income, debt-to-income ratio, the total number of open accounts, any derogatory marks the applicant might have, and the applicant's total debt amount. </li>
+<li>The variable that we are trying to predict is the loan status which has two possible outcomes "Healthy loan" or "High-risk</li>
+</ul> 
+<li>Results</li>
+<ul>
+<li>Machine Learning Model 1:</li>
+<ul>
+<li>Accuracy: 99%</li>
+<li>Percision: 92%</li>
+<li>Recall: 95%</li>
+</ul>
+</ul>
+<li>Summary</li>
+Since precision is very close 1 we can infer that this model did a good job in predicting healthy and high-risk loans. It was 100% accurate with low-risk loans and 85% accurate with high-risk loans. Since there was only one model we have nothing else to compare our results to.
+</ol>
