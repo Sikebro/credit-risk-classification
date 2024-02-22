@@ -42,4 +42,4 @@ Structure your report by using the report template that Starter_Code.zip include
 <li><strong>A summary:</strong> Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.</li>
 </ol>
 
-<h2>Credit Risk Analysis Report</h2>
+<h3>Credit Risk Analysis Report</h3>
